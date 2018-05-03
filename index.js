@@ -1,3 +1,3 @@
 function fn(){
-	console.log("11111111")
+	console.log("2sazdaszcxdas")
 }
